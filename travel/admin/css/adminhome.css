@@ -1,0 +1,37 @@
+ html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+        font-family: 'Crimson Text', serif;
+    }
+.welcome-section {
+    padding-top: 40px;
+    margin-top: 30px;
+}
+.welcome-section h1 {
+    font-weight: 900;
+    font-size: 42px;
+    padding: 20px;
+}
+.about-us {
+
+    padding: 33px 0;
+    font-size: 19px;
+    line-height: 1.7;
+
+}
+.edit-delt {
+    margin-bottom: 40px;
+    font-size: 17px;
+}
+.footer-paragraph p, a {
+    font-size: 20px;
+}
+.footer-bg{
+	background-color: #006666;
+	color:#fff;
+	padding: 10px;
+
+}
+.footer-bg a{
+	color:#31C650;
+}

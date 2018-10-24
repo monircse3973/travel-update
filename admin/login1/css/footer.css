@@ -1,0 +1,12 @@
+.footer-paragraph p, a {
+    font-size: 20px;
+}
+.footer-bg{
+	background-color: #006666;
+	color:#fff;
+	padding: 10px;
+
+}
+.footer-bg a{
+	color:#31C650;
+}
